@@ -4,59 +4,59 @@ All Codes were tested using the below configurations:
 
   - OS : Mac OS 10.13.2 64-bit
   - Xcode Version 9.2 (9C40b)
-  - Python 2.7.14 64bits, Qt 5.6.2, PyQt5 5.6
+  - Python 2.7.14 64bit, Qt 5.6.2, PyQt5 5.6
 
 ## Documents
 
 1. ***Questions-Part-1.pdf*** and ***Report-Part-1.pdf*** 
 
 	Contains questions and report for
-       - 01-Color-To-Grayscale-Conversion
-       - 02-CMY-Color-Space
-       - 03-Image-Resizing-via-Bilinear-Interpolation
-       - 04-Transfer-Function-Based-Histogram-Equalization
-       - 05-Cumulative-Probability-Based-Histogram-Equalization
-       - 06-Creating-Oil-Painting-Effect
-       - 07-Creating-Film-Special-Effect
-       - 08-Mixed-Noise-Removal-In-Color-Image
-       - 09-Patch-Based-Local-PCA-Noise-Removal
-       - 10-BM3D-Noise-Removal
+       *  01-Color-To-Grayscale-Conversion
+       *  02-CMY-Color-Space
+       *  03-Image-Resizing-via-Bilinear-Interpolation
+       *  04-Transfer-Function-Based-Histogram-Equalization
+       *  05-Cumulative-Probability-Based-Histogram-Equalization
+       *  06-Creating-Oil-Painting-Effect
+       *  07-Creating-Film-Special-Effect
+       *  08-Mixed-Noise-Removal-In-Color-Image
+       *  09-Patch-Based-Local-PCA-Noise-Removal
+       *  10-BM3D-Noise-Removal
  
 2. ***Questions-Part-2.pdf*** and ***Report-Part-2.pdf*** 
 
 	Contains questions and report for
-       - 11-Geometrical-Warping
-       - 12-Creating-Panorama-Homographic-Transformation-And-Image-Stitching
-       - 13-Dithering-For-Digital-Half-toning
-       - 14-Error-Diffusion-For-Digital-Half-Toning
-       - 15-Separable-Error-Diffusion-For-Color-Halftoning
-       - 16-MBVQ-Based-Error-Diffusion-For-Color-Halftoning
-       - 17-Morphological-Processing-Shrinking-Count-Stars
-       - 18-Morphological-Processing-Thinning
-       - 19-Morphological-Processing-Skeletonizing
-       - 20-Counting-Game
-       - 21-Counting-Game-Unique-Items 
+       *  11-Geometrical-Warping
+       *  12-Creating-Panorama-Homographic-Transformation-And-Image-Stitching
+       *  13-Dithering-For-Digital-Half-toning
+       *  14-Error-Diffusion-For-Digital-Half-Toning
+       *  15-Separable-Error-Diffusion-For-Color-Halftoning
+       *  16-MBVQ-Based-Error-Diffusion-For-Color-Halftoning
+       *  17-Morphological-Processing-Shrinking-Count-Stars
+       *  18-Morphological-Processing-Thinning
+       *  19-Morphological-Processing-Skeletonizing
+       *  20-Counting-Game
+       *  21-Counting-Game-Unique-Items 
        
 3. ***Questions-Part-3.pdf*** and ***Report-Part-3.pdf*** 
 
 	Contains questions and report for
-       - 22-Texture-Classification
-       - 23-Texture-Segmentation
-       - 24-Improved-Texture-Segmentation
-       - 25-Sobel-Edge-Detector
-       - 26-Zero-Crossing-Edge-Detector
-       - 27-Structured-Edge-Detector
-       - 28-SIFT-And-SURF-Salient-Points-Extraction
-       - 29-SIFT-And-SURF-Image-Matching
-       - 30-Bag-Of-Words
+       *  22-Texture-Classification
+       *  23-Texture-Segmentation
+       *  24-Improved-Texture-Segmentation
+       *  25-Sobel-Edge-Detector
+       *  26-Zero-Crossing-Edge-Detector
+       *  27-Structured-Edge-Detector
+       *  28-SIFT-And-SURF-Salient-Points-Extraction
+       *  29-SIFT-And-SURF-Image-Matching
+       *  30-Bag-Of-Words
 
 4. ***Questions-Part-4.pdf*** and ***Report-Part-4.pdf*** 
 	
 	Contains questions and report for
-       - 31-CNN-LeNet-5-On-MNIST-Dataset
-       - 32-Improved-CNN-On-MNIST-Dataset
-       - 33-Saak-Transform-On-MNIST-Dataset
-       - 34-Error-Analysis-On-MNIST-Dataset
+       *  31-CNN-LeNet-5-On-MNIST-Dataset
+       *  32-Improved-CNN-On-MNIST-Dataset
+       *  33-Saak-Transform-On-MNIST-Dataset
+       *  34-Error-Analysis-On-MNIST-Dataset
        
 ## 01-Color-To-Grayscale-Conversion
 
