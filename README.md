@@ -11,15 +11,15 @@ All Codes were tested using the below configurations:
 1. ***Questions-Part-1.pdf*** and ***Report-Part-1.pdf*** 
 
 	Contains questions and report for
-       - 1-Color-To-Grayscale-Conversion
-       - 2-CMY-Color-Space
-       - 3-Image-Resizing-via-Bilinear-Interpolation
-       - 4-Transfer-Function-Based-Histogram-Equalization
-       - 5-Cumulative-Probability-Based-Histogram-Equalization
-       - 6-Creating-Oil-Painting-Effect
-       - 7-Creating-Film-Special-Effect
-       - 8-Mixed-Noise-Removal-In-Color-Image
-       - 9-Patch-Based-Local-PCA-Noise-Removal
+       - 01-Color-To-Grayscale-Conversion
+       - 02-CMY-Color-Space
+       - 03-Image-Resizing-via-Bilinear-Interpolation
+       - 04-Transfer-Function-Based-Histogram-Equalization
+       - 05-Cumulative-Probability-Based-Histogram-Equalization
+       - 06-Creating-Oil-Painting-Effect
+       - 07-Creating-Film-Special-Effect
+       - 08-Mixed-Noise-Removal-In-Color-Image
+       - 09-Patch-Based-Local-PCA-Noise-Removal
        - 10-BM3D-Noise-Removal
  
 2. ***Questions-Part-2.pdf*** and ***Report-Part-2.pdf*** 
@@ -58,7 +58,7 @@ All Codes were tested using the below configurations:
        - 33-Saak-Transform-On-MNIST-Dataset
        - 34-Error-Analysis-On-MNIST-Dataset
        
-## 1-Color-To-Grayscale-Conversion
+## 01-Color-To-Grayscale-Conversion
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
@@ -70,7 +70,7 @@ All Codes were tested using the below configurations:
    $ ./main [row] [col] [bytesPerPixel] [input image path] [raw output image 1 path] [raw output image 2 path] [raw output image 3 path]
 ```
 
-## 2-CMY-Color-Space
+## 02-CMY-Color-Space
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
@@ -82,7 +82,7 @@ All Codes were tested using the below configurations:
    $ ./main [row] [col] [bytesPerPixel]  [input image path] [raw output image 1 path] [raw output image 2 path] [raw output image 3 path] [raw output image 4 path]
 ```
 
-## 3-Image-Resizing-via-Bilinear-Interpolation
+## 03-Image-Resizing-via-Bilinear-Interpolation
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
@@ -94,7 +94,7 @@ All Codes were tested using the below configurations:
    $ ./main [row] [col] [bytesPerPixel] [input image path] [raw output image 1 path] [resize row] [resize col]
 ```
 
-## 4-Transfer-Function-Based-Histogram-Equalization
+## 04-Transfer-Function-Based-Histogram-Equalization
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
@@ -108,7 +108,7 @@ All Codes were tested using the below configurations:
 
 Note: Has a Matlab file to read the txt histogram files and display them
 
-## 5-Cumulative-Probability-Based-Histogram-Equalization
+## 05-Cumulative-Probability-Based-Histogram-Equalization
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
@@ -122,7 +122,7 @@ Note: Has a Matlab file to read the txt histogram files and display them
 
 Note: Has a Matlab file to read the txt histogram files and display them
 
-## 6-Creating-Oil-Painting-Effect
+## 06-Creating-Oil-Painting-Effect
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
@@ -134,7 +134,7 @@ Note: Has a Matlab file to read the txt histogram files and display them
    $ ./main [row] [col] [bytesPerPixel] [input image path] [raw output image 1 path] [raw output image 2 path] [Number of Quantization levels] [N - for N*N neighborhood]
 ```
 
-## 7-Creating-Film-Special-Effect
+## 07-Creating-Film-Special-Effect
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
@@ -148,7 +148,7 @@ Note: Has a Matlab file to read the txt histogram files and display them
 
 Note: Has a Matlab file to read the txt histogram files and display them
 
-## 8-Mixed-Noise-Removal-In-Color-Image 
+## 08-Mixed-Noise-Removal-In-Color-Image 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
 3. Execute the following commands  
@@ -159,7 +159,7 @@ Note: Has a Matlab file to read the txt histogram files and display them
    $ ./main [row] [col] [bytesPerPixel] [input Noise free image path]  [input Noisy image path] [output image path] [N - mask size] [Filter Name 1] [Filter Name 2] [Filter Name 3] (filter names: medianFilter, lowPassFilter, gaussianFilter, give 0 if no need of filters)
 ```
 
-## 9-Patch-Based-Local-PCA-Noise-Removal
+## 09-Patch-Based-Local-PCA-Noise-Removal
 
 1. Change directory to the folder in Matlab
 2. Open main.m file in Matlab and run

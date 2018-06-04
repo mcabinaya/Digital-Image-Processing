@@ -1,4 +1,4 @@
-## 1-Color-To-Grayscale-Conversion
+## 01-Color-To-Grayscale-Conversion
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file

@@ -1,4 +1,4 @@
-## 8-Mixed-Noise-Removal-In-Color-Image 
+## 08-Mixed-Noise-Removal-In-Color-Image 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
 3. Execute the following commands  

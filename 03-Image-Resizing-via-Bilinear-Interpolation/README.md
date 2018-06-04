@@ -1,4 +1,4 @@
-## 3-Image-Resizing-via-Bilinear-Interpolation
+## 03-Image-Resizing-via-Bilinear-Interpolation
 
 1. Open command Prompt
 2. Change directory using cd to the folder that has main.cpp and DIP_MyHeaderFile.h file
