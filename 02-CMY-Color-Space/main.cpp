@@ -19,7 +19,7 @@ int main(int argc, char * argv[]) {
     // Check for proper syntax --------
     if (argc != 9){
         cout << "Syntax Error - Incorrect Parameter Usage:" << endl;
-        cout << "program_name [row] [col] [bytesPerPixel]  [input image path] [raw output image 1 path] [raw output image 2 path] [raw output image 3 path] [raw output image 4 path] " << endl;
+        cout << "program_name [row] [col] [bytesPerPixel] [input image path] [raw output image 1 path] [raw output image 2 path] [raw output image 3 path] [raw output image 4 path] " << endl;
         return 0;
     }
     
