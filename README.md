@@ -10,7 +10,8 @@ All Codes were tested using the below configurations:
 
 1. ***Questions-Part-1.pdf*** and ***Report-Part-1.pdf*** 
 
-	Contains questions and report for
+	Contains questions and report for 
+
        *  01-Color-To-Grayscale-Conversion 
         
        *  02-CMY-Color-Space  
@@ -33,7 +34,8 @@ All Codes were tested using the below configurations:
  
 2. ***Questions-Part-2.pdf*** and ***Report-Part-2.pdf*** 
 
-	Contains questions and report for
+	Contains questions and report for 
+
        *  11-Geometrical-Warping 
        
        *  12-Creating-Panorama-Homographic-Transformation-And-Image-Stitching 
@@ -59,7 +61,8 @@ All Codes were tested using the below configurations:
        
 3. ***Questions-Part-3.pdf*** and ***Report-Part-3.pdf*** 
 
-	Contains questions and report for
+	Contains questions and report for 
+	
        *  22-Texture-Classification 
        
        *  23-Texture-Segmentation 
