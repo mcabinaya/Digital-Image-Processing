@@ -1,1 +1,2 @@
-*.py linguist-language=c++
+* linguist-vendored
+*.py linguist-vendored=false
