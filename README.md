@@ -3,8 +3,8 @@
 All Codes were tested using the below configurations:  
 
   - OS : Mac OS 10.13.2 64-bit
-  - Xcode Version 9.2 (9C40b)
-  - Python 2.7.14 64bit, Qt 5.6.2, PyQt5 5.6
+  - Xcode Version 9.2 
+  - Python 2.7
 
 ## Documents
 
